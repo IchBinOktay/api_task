@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEE79B5-E206-4333-928C-BDB45932D5FB}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\business\\features\\product\\commands\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEE79B5-E206-4333-928C-BDB45932D5FB}|Business\\Business.csproj|solutionrelative:business\\features\\product\\commands\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEE79B5-E206-4333-928C-BDB45932D5FB}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\business\\features\\product\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEE79B5-E206-4333-928C-BDB45932D5FB}|Business\\Business.csproj|solutionrelative:business\\features\\product\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEE79B5-E206-4333-928C-BDB45932D5FB}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\business\\features\\product\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABEE79B5-E206-4333-928C-BDB45932D5FB}|Business\\Business.csproj|solutionrelative:business\\features\\product\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7A5E1A-14B9-4DA9-B1A1-B32E1E2335F5}|Data\\Data.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7A5E1A-14B9-4DA9-B1A1-B32E1E2335F5}|Data\\Data.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\presentation\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\presentation\\middlewares\\customexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\middlewares\\customexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\api-main\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33A72F-8091-4F8C-9214-4A9EBEB12BC3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:19:24.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:10:46.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:10:39.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T16:01:45.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:05:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:10:43.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Middlewares\\CustomExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Presentation\\Middlewares\\CustomExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Middlewares\\CustomExceptionMiddleware.cs",
+              "RelativeToolTip": "Presentation\\Middlewares\\CustomExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:10:38.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:10:36.498Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:50:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:49:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\API-main\\Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "Business\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:49:09.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
